@@ -1,0 +1,10 @@
+_id
+680cbd7eee7dede5826d5a08
+name
+"Anny"
+email
+"johiyuh5h@te.com"
+password
+"$2b$10$LwUC4461YpwAAnhV4bCbo.SpFQ4001op37aimX9htvh6VlG28JCnO"
+__v
+0
